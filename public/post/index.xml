@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Cao Hoai Viet Blog</title>
-    <link>http://hoaiviet.netlify.com/post/</link>
+    <link>http://hoaiviet.space/post/</link>
     <description>Recent content in Posts on Cao Hoai Viet Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 17 Jan 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://hoaiviet.netlify.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://hoaiviet.space/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Calabash: Hướng dẫn cách cài đặt để kiểm thử ứng dụng iOS tự động với Calabash</title>
-      <link>http://hoaiviet.netlify.com/blog/2016/01/17/calabash-h%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-c%C3%A1ch-c%C3%A0i-%C4%91%E1%BA%B7t-%C4%91%E1%BB%83-ki%E1%BB%83m-th%E1%BB%AD-%E1%BB%A9ng-d%E1%BB%A5ng-ios-t%E1%BB%B1-%C4%91%E1%BB%99ng-v%E1%BB%9Bi-calabash/</link>
+      <link>http://hoaiviet.space/blog/2016/01/17/calabash-h%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-c%C3%A1ch-c%C3%A0i-%C4%91%E1%BA%B7t-%C4%91%E1%BB%83-ki%E1%BB%83m-th%E1%BB%AD-%E1%BB%A9ng-d%E1%BB%A5ng-ios-t%E1%BB%B1-%C4%91%E1%BB%99ng-v%E1%BB%9Bi-calabash/</link>
       <pubDate>Sun, 17 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://hoaiviet.netlify.com/blog/2016/01/17/calabash-h%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-c%C3%A1ch-c%C3%A0i-%C4%91%E1%BA%B7t-%C4%91%E1%BB%83-ki%E1%BB%83m-th%E1%BB%AD-%E1%BB%A9ng-d%E1%BB%A5ng-ios-t%E1%BB%B1-%C4%91%E1%BB%99ng-v%E1%BB%9Bi-calabash/</guid>
+      <guid>http://hoaiviet.space/blog/2016/01/17/calabash-h%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-c%C3%A1ch-c%C3%A0i-%C4%91%E1%BA%B7t-%C4%91%E1%BB%83-ki%E1%BB%83m-th%E1%BB%AD-%E1%BB%A9ng-d%E1%BB%A5ng-ios-t%E1%BB%B1-%C4%91%E1%BB%99ng-v%E1%BB%9Bi-calabash/</guid>
       <description>
 
 &lt;hr /&gt;
@@ -194,10 +194,10 @@ $ bundle exec cucumber
     
     <item>
       <title>CasperJS/PhantomJS - Tutorial</title>
-      <link>http://hoaiviet.netlify.com/blog/2015/12/29/casperjs/phantomjs---tutorial/</link>
+      <link>http://hoaiviet.space/blog/2015/12/29/casperjs/phantomjs---tutorial/</link>
       <pubDate>Tue, 29 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://hoaiviet.netlify.com/blog/2015/12/29/casperjs/phantomjs---tutorial/</guid>
+      <guid>http://hoaiviet.space/blog/2015/12/29/casperjs/phantomjs---tutorial/</guid>
       <description>
 
 &lt;h3 id=&#34;we-use&#34;&gt;We use&lt;/h3&gt;
@@ -292,10 +292,10 @@ casper.run();
     
     <item>
       <title>Calabash: Ruby API</title>
-      <link>http://hoaiviet.netlify.com/blog/2015/12/25/calabash-ruby-api/</link>
+      <link>http://hoaiviet.space/blog/2015/12/25/calabash-ruby-api/</link>
       <pubDate>Fri, 25 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://hoaiviet.netlify.com/blog/2015/12/25/calabash-ruby-api/</guid>
+      <guid>http://hoaiviet.space/blog/2015/12/25/calabash-ruby-api/</guid>
       <description>
 
 &lt;hr /&gt;
@@ -601,10 +601,10 @@ before or after your scenario.&lt;/p&gt;
     
     <item>
       <title>Calabash: Calabash-iOS for iOS tutorial</title>
-      <link>http://hoaiviet.netlify.com/blog/2015/12/23/calabash-calabash-ios-for-ios-tutorial/</link>
+      <link>http://hoaiviet.space/blog/2015/12/23/calabash-calabash-ios-for-ios-tutorial/</link>
       <pubDate>Wed, 23 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://hoaiviet.netlify.com/blog/2015/12/23/calabash-calabash-ios-for-ios-tutorial/</guid>
+      <guid>http://hoaiviet.space/blog/2015/12/23/calabash-calabash-ios-for-ios-tutorial/</guid>
       <description>
 
 &lt;hr /&gt;
@@ -768,10 +768,10 @@ $ bundle exec cucumber
     
     <item>
       <title>Calabash: Calabash-Android tutorial</title>
-      <link>http://hoaiviet.netlify.com/blog/2015/12/22/calabash-calabash-android-tutorial/</link>
+      <link>http://hoaiviet.space/blog/2015/12/22/calabash-calabash-android-tutorial/</link>
       <pubDate>Tue, 22 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://hoaiviet.netlify.com/blog/2015/12/22/calabash-calabash-android-tutorial/</guid>
+      <guid>http://hoaiviet.space/blog/2015/12/22/calabash-calabash-android-tutorial/</guid>
       <description>
 
 &lt;hr /&gt;
@@ -1001,10 +1001,10 @@ end
     
     <item>
       <title>Appium: Appium for Android tutorial</title>
-      <link>http://hoaiviet.netlify.com/blog/2015/12/21/appium-appium-for-android-tutorial/</link>
+      <link>http://hoaiviet.space/blog/2015/12/21/appium-appium-for-android-tutorial/</link>
       <pubDate>Mon, 21 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://hoaiviet.netlify.com/blog/2015/12/21/appium-appium-for-android-tutorial/</guid>
+      <guid>http://hoaiviet.space/blog/2015/12/21/appium-appium-for-android-tutorial/</guid>
       <description>
 
 &lt;hr /&gt;
