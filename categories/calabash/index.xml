@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Calabash on Cao Hoai Viet Blog</title>
-    <link>http://hoaiviet.netlify.com/categories/calabash/</link>
+    <link>http://hoaiviet.space/categories/calabash/</link>
     <description>Recent content in Calabash on Cao Hoai Viet Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 25 Dec 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://hoaiviet.netlify.com/categories/calabash/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://hoaiviet.space/categories/calabash/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Calabash: Ruby API</title>
-      <link>http://hoaiviet.netlify.com/blog/2015/12/25/calabash-ruby-api/</link>
+      <link>http://hoaiviet.space/blog/2015/12/25/calabash-ruby-api/</link>
       <pubDate>Fri, 25 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://hoaiviet.netlify.com/blog/2015/12/25/calabash-ruby-api/</guid>
+      <guid>http://hoaiviet.space/blog/2015/12/25/calabash-ruby-api/</guid>
       <description>
 
 &lt;hr /&gt;
