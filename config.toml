@@ -57,7 +57,7 @@ paginate = 15
     # Sidebar social links, these must be full URLs.
     github = "https://github.com/vietch2612"
     bitbucket = ""
-    /* stackOverflow = "hoaiviet" */
+    stackOverflow = ""
     linkedin = "https://vn.linkedin.com/in/vietch2612"
     googleplus = ""
     facebook = ""
