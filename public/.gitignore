@@ -22,4 +22,7 @@ _testmain.go
 *.exe
 *.test
 *.prof
+<<<<<<< HEAD
 *.swp
+=======
+>>>>>>> 4780b75073e407b031205a2edb77a2ef6b0bff9a

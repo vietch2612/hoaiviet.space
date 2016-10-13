@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>Web on Hoai Viet Blog</title>
     <link>http://hoaiviet.space/categories/web/</link>
     <description>Recent content in Web on Hoai Viet Blog</description>
+=======
+    <title>Web on Cao Hoai Viet Blog</title>
+    <link>http://hoaiviet.space/categories/web/</link>
+    <description>Recent content in Web on Cao Hoai Viet Blog</description>
+>>>>>>> 4780b75073e407b031205a2edb77a2ef6b0bff9a
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 29 Dec 2015 00:00:00 +0000</lastBuildDate>
