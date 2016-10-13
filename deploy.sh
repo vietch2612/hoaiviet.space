@@ -18,4 +18,4 @@ git commit -m "$msg"
 # Push source and build repos.
 git push origin master
 git subtree pull --prefix=public https://github.com/vietch2612/hoaiviet.space.git master 
-git subtree push --prefix=public https://github.com/vietch2612/hoaiviet.space.git master 
+# git subtree push --prefix=public https://github.com/vietch2612/hoaiviet.space.git master 
