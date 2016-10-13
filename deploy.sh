@@ -1,6 +1,4 @@
 #!/bin/bash
-git subtree pull --prefix=public https://github.com/vietch2612/hoaiviet.space.git gh-pages 
-
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # Build the project.
