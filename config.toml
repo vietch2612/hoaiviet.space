@@ -1,5 +1,5 @@
 baseurl = "http://hoaiviet.space/"
-title = "Cao Hoai Viet Blog"
+title = "Hoai Viet Blog"
 languageCode = "en-us"
 disqusShortname = "hoaiviet" # Optional, enable Disqus integration
 MetaDataFormat = "toml"
@@ -42,7 +42,7 @@ paginate = 15
 
     # Displays under the author name in the sidebar, keep it short.
     # You can use markdown here.
-    tagline = "QA Automation at Silicon Straits"
+    tagline = "QA Engineer @ Silicon Straits"
 
     # Text for the top menu link, which goes the root URL for the site.
     # Default (if omitted) is "Blog".
@@ -57,7 +57,7 @@ paginate = 15
     # Sidebar social links, these must be full URLs.
     github = "https://github.com/vietch2612"
     bitbucket = ""
-    stackOverflow = ""
+    /* stackOverflow = "hoaiviet" */
     linkedin = "https://vn.linkedin.com/in/vietch2612"
     googleplus = ""
     facebook = ""
